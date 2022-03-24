@@ -1,14 +1,17 @@
 # Notes Hold
 
+```javascript
 KeyCode: 27, /* Escape Key */
 KeyCode: 37, /* Left Arrow Key */
 KeyCode: 39, /* Right Arrow Key */
 KeyCode: 77, /* M Key */
-
+```
+```html
 &ldquo;
 &mdash;
 &nbsp;
 &rsquo;
+```
 
 [jPanelMenu](http://jpanelmenu.com)
   [Demo/documentation page](http://jpanelmenu.com#tips-progressive-enhancement)
